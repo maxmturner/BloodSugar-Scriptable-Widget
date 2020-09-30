@@ -1,4 +1,5 @@
 # BloodSugar-Scriptable-Widget
+![Widget Screenshot](https://raw.githubusercontent.com/maxmturner/BloodSugar-Scriptable-Widget/master/WidgetScreenshot.PNG)
 
 This script is intended to be used in the Scriptable app for iOS, requires iOS 14 
 
